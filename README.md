@@ -23,7 +23,7 @@ It allows users to calculate **monthly payment, total amount, and total interest
 
 ## 📂 Project Structure
 
-Loan-Calculator/
+Loan-Calculator/  
 │── 📄 index.html # Main HTML file (UI for Loan Calculator)  
 │── ⚙️ app.js # JavaScript logic (calculations & validation)  
 │── ⏳ load.gif # Loading spinner animation  
